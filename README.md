@@ -2,7 +2,7 @@
 
 this is a sample ecommerce web app made using react, redux and react router.
 
-Live demo can be found at [https://blissful-ramanujan-3c108d.netlify.app/](https://blissful-ramanujan-3c108d.netlify.app/).
+Live demo can be found at [https://blissful-ramanujan-3c108d.netlify.app/](https://blissful-ramanujan-3c108d.netlify.app/). 
 
 ## Build Setup
 
